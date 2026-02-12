@@ -1,0 +1,11 @@
+.hero-section {
+    background-image: url('/images/hero-bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.contact-section {
+    background-image: url('/images/contact-bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
